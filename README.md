@@ -5,11 +5,11 @@
 A minimal, responsive personal portfolio showcasing my skills, projects,
 education, and certifications.
 
-[![Live Portfolio](https://img.shields.io/badge/View_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel)](https://mohammed-yahya-portfolio.vercel.app)
+[![Live Portfolio](https://img.shields.io/badge/View_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel)](https://portfolio-six-pi-opzroz149e.vercel.app)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 
-[Live site](https://mohammed-yahya-portfolio.vercel.app) ·
+[Live site](https://portfolio-six-pi-opzroz149e.vercel.app) ·
 [GitHub profile](https://github.com/Y4hy409) ·
 [Email](mailto:mohammedyahya.at@gmail.com)
 
